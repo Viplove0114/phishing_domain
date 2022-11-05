@@ -61,13 +61,13 @@ The machine learning models considered to train the dataset in this project are 
 - Random Forest
 - Multilayer Perceptron
 
-(For this dataset MLP gave the highest accuracy (99%) with suitably balanced precision and recall,the trained model is saved [here](https://github.com/deepeshdm/Phishing-Attack-Domain-Detection/tree/main/models))
+(For this dataset MLP gave the highest accuracy (99%) with suitably balanced precision and recall,the trained model is saved [here](https://github.com/Viplove0114/phishing_domain/tree/main/models))
 
 
 ## 👨‍💻 To run (locally)
 1. Import this repository using git command
 ```
-git clone https://github.com/deepeshdm/Phishing-Attack-Domain-Detection.git
+git clone https://github.com/Viplove0114/phishing_domain.git
 ```
 2. Install all the required dependencies inside a virtual environment
 ```
@@ -101,10 +101,7 @@ In order to make it easy for anyone to interact with the model,we created a clea
 <img src="/Imgs/phishr-demo.gif" width="80%"/>
 </div>
 
-### Related Repositories
-- Rest API deployment repository - [here](https://github.com/deepeshdm/Phishr-API) 
-- React Web Interface repository - [here](https://github.com/deepeshdm/phishr)
-##
+
 
 ## Improvements to make
 This project was done just for the sake of learning end-to-end ML deployment,so far less focus was given on optimizing model performances.Further things which can be done for Improving this model :
